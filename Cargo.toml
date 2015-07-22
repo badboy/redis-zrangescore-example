@@ -1,0 +1,7 @@
+[package]
+name = "redis-zrangescore-example"
+version = "0.1.0"
+authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+
+[dependencies.redis]
+git = "https://github.com/mitsuhiko/redis-rs/"
